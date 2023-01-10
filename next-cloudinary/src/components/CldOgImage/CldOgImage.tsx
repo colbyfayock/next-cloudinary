@@ -13,7 +13,8 @@ const CldOgImage = ({ excludeTags = [], twitterTitle, ...props }) => {
     width: props.width || IMAGE_WIDTH,
     height: props.height || IMAGE_HEIGHT,
     crop: props.crop || 'fill',
-    gravity: props.gravity || 'center'
+    gravity: props.gravity || 'center',
+    alt: props.alt
   }
 
   const ogImageUrl = constructCloudinaryUrl({

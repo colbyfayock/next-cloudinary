@@ -178,6 +178,7 @@ yarn test
       <td align="center"><a href="https://github.com/csgochan"><img src="https://avatars.githubusercontent.com/u/116420257?v=4?s=100" width="100px;" alt="csgochan"/><br /><sub><b>csgochan</b></sub></a><br /><a href="https://github.com/colbyfayock/next-cloudinary/commits?author=csgochan" title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/codingis4noobs2"><img src="https://avatars.githubusercontent.com/u/87560178?v=4?s=100" width="100px;" alt="codingis4noobs2"/><br /><sub><b>codingis4noobs2</b></sub></a><br /><a href="https://github.com/colbyfayock/next-cloudinary/commits?author=codingis4noobs2" title="Code">💻</a> <a href="https://github.com/colbyfayock/next-cloudinary/commits?author=codingis4noobs2" title="Tests">⚠️</a></td>
       <td align="center"><a href="https://github.com/michizhou"><img src="https://avatars.githubusercontent.com/u/33012425?v=4?s=100" width="100px;" alt="michizhou"/><br /><sub><b>michizhou</b></sub></a><br /><a href="https://github.com/colbyfayock/next-cloudinary/commits?author=michizhou" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/tanzoniteblack"><img src="https://avatars.githubusercontent.com/u/1134611?v=4?s=100" width="100px;" alt="tanzoniteblack"/><br /><sub><b>tanzoniteblack</b></sub></a><br /><a href="https://github.com/colbyfayock/next-cloudinary/commits?author=tanzoniteblack" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
